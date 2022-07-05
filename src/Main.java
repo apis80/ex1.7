@@ -8,6 +8,7 @@ public class Main {
         }
         private static void printlnLeapYear (int year) {
             System.out.println("Год високосный");
+            System.out.println("Год високосный");
         }
         private static void printlnNonLeapYear (int year) {
         System.out.println("Год не високосный");
